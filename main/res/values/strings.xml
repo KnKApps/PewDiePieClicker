@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">PewDiePie Clicker</string>
+
+    <string name="overTimeMenuString">Increases attention per second by %1$s</string>
+    <string name="perClickMenuString">Increases attention per click by %1$s</string>
+
+    <string name="counterTop">%,1.1f</string>
+    <string name="counterBottom">%,1.1f per second\n%,2.1f per click</string>
+
+    <string name="buttonPrice">%,1d</string>
+
+
+    <string name="overtimeButton">Over Time</string>
+    <string name="perClickButton">Per Click</string>
+
+    <string name="perClick1">Exploit Edgar</string>
+    <string name="perClick2">Flip on the chair</string>
+    <string name="perClick3">RESPECT WAMEN</string>
+    <string name="perClick4">Make Poland jokes</string>
+    <string name="perClick5">Threaten to delete channel</string>
+    <string name="perClick6">Make nazi jokes</string>
+    <string name="perClick7">Make ISIS jokes</string>
+    <string name="perClick8">Bonus Meme</string>
+
+    <string name="overtime1">Post YLYL</string>
+    <string name="overtime2">Vlog from Japan</string>
+    <string name="overtime3">Steal Jacksfilms\' series</string>
+    <string name="overtime4">Comment on YT drama</string>
+    <string name="overtime5">Get demonetised</string>
+    <string name="overtime6">Release a mobile game</string>
+    <string name="overtime7">Propose to Marzia</string>
+    <string name="overtime8">South Park appearance</string>
+
+    <string name="dismiss_button">DONE</string>
+
+    <string name="boost_title">ATTENTION X2</string>
+    <string name="boost_message">Do you want to watch an ad and boost your attention rate?\nAttention x2 for 60 seconds.</string>
+    <string name="boost_positive">YES</string>
+    <string name="boost_negative">NO</string>
+    <string name="ad_wait">Wait for an ad to load</string>
+
+    <string name="gotBonus">You got %,1.1f attention!</string>
+    <string name="missedBonus">You\'ve missed the bonus!</string>
+
+    <string name="factory_url">http://kruszwil.000webhostapp.com/pewdiepieclicker.json</string>
+    <string name="google_play_url">https://play.google.com/store/apps/details?id=com.knk.pewdiepieclicker</string>
+    <string name="update_title">New version!</string>
+    <string name="update_text">A new version of application is ready to download!</string>
+    <string name="update_button">UPDATE</string>
+
+    <string name="admob_app_id">ca-app-pub-8349688339545762~7818181437</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8349688339545762/3439118570</string>
+    <string name="rewarded_ad_unit_id">ca-app-pub-8349688339545762/4668030649</string>
+
+
+
+</resources>
